@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnkithMall/AnkithMall/main/profile.png" 
        alt="Ankith Mall Banner"
-       style="max-width: 100%; height: auto; border-radius: 10px;">
+       style="max-width: 50%; height: auto; border-radius: 10px;">
 </p>
 
 <!-- Typing Intro -->
