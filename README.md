@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/XV5V5pK/dev-banner.png" alt="Ankith Mall Banner" width="100%">
+  <img src="https://chatgpt.com/s/m_68980bf32d148191a851c9ab2cca694b" alt="Ankith Mall Banner" width="100%">
 </p>
 
 <!-- Typing Intro -->
