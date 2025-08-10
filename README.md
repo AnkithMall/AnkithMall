@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Ankith Mall  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnkithMall-blue?logo=linkedin)](https://linkedin.com/in/ankith-mall-aa8879263)
+[![GitHub](https://img.shields.io/badge/GitHub-AnkithMall-black?logo=github)](https://github.com/AnkithMall)
+[![Medium](https://img.shields.io/badge/Medium-ankithmall1729-black?logo=medium)](https://medium.com/@ankithmall1729)
+[![Portfolio](https://img.shields.io/badge/Website-ankith.pages.dev-green?logo=google-chrome)](https://ankith.pages.dev)
+
 🚀 **DevOps Engineer | Full-Stack Developer | Cloud Enthusiast**  
 Building scalable, automated, and intelligent systems with **AWS, Azure, Kubernetes, and CI/CD**.  
 I love blending **DevOps automation** with **full-stack apps** to create products that are both performant and maintainable.
@@ -62,9 +67,3 @@ Automated VM cluster provisioning using **VirtualBox, PySpark, Ansible, Vagrant*
 
 ---
 
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnkithMall-blue?logo=linkedin)](https://linkedin.com/in/ankith-mall-aa8879263)
-[![GitHub](https://img.shields.io/badge/GitHub-AnkithMall-black?logo=github)](https://github.com/AnkithMall)
-[![Medium](https://img.shields.io/badge/Medium-ankithmall1729-black?logo=medium)](https://medium.com/@ankithmall1729)
-[![Portfolio](https://img.shields.io/badge/Website-ankith.pages.dev-green?logo=google-chrome)](https://ankith.pages.dev)
