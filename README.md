@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnkithMall/AnkithMall/refs/heads/main/profile.png" alt="Ankith Mall Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/AnkithMall/AnkithMall/main/profile.png" 
+       alt="Ankith Mall Banner"
+       style="max-width: 100%; height: auto; border-radius: 10px;">
 </p>
 
 <!-- Typing Intro -->
